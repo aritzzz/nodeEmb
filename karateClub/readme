@@ -1,0 +1,3 @@
+KC_lm: Basic Neural Graph Model
+RP1: Routing procedure 1 with cost function CE + KL.
+RP2: Routing procedure 2 with target distribution estimations.
